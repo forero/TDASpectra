@@ -8,3 +8,6 @@ http://firaskhasawneh.com/assets/repo_docs/PH_and_networks/index.html
 
 teaspoon. Topological Data Analysis  
 https://github.com/lizliz/teaspoon
+
+Book : Computational Topology for Data Analysis  
+https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html
