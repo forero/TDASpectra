@@ -11,3 +11,7 @@ https://github.com/lizliz/teaspoon
 
 Book : Computational Topology for Data Analysis  
 https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html
+
+
+Dynamic State Analysis of a Driven Magnetic Pendulum Using Ordinal Partition Networks and Topological Data Analysis  
+https://www.audunmyers.com/presentations.html  
